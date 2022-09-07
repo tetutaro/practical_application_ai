@@ -1,0 +1,14 @@
+.DS_Store
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.gz
+*.tex
+*.toc
+*.bin

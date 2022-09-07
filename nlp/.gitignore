@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints
+.virtual_documents
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.gz
+*.tex
+*.toc
+*.bin
+livedoor_news_corpus
