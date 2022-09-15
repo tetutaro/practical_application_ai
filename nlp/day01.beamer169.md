@@ -1,6 +1,6 @@
 ---
 title: 実践的データ分析講座（テキスト分類）
-subtitle: １日目：テキスト分類の要素美術
+subtitle: １日目：テキスト分類の要素技術
 author: 丸山 哲太郎
 institute: TechnoFACE
 date: 2022/09/08
